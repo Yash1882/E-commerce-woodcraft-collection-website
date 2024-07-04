@@ -4,7 +4,7 @@
   <br />
   <br />
 
-  <h2 align="center">Wooden Collection - Furniture eCommerce Website</h2>
+  <h2 align="center">Woodcraft Collection - Furniture eCommerce Website</h2>
 
   Woodex is a fully responsive furniture ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
